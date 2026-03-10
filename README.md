@@ -35,7 +35,7 @@ I’m passionate about **learning new technologies**, solving problems, and crea
 
 ## 🚀 Projects
 
-### 1. [DS Lumping Services Website](https://github.com/Kkritika007/ds-lumping-services)
+### 1. [DS Lumping Services Website](https://github.com/Kkritika007/DSBusiness)
 Responsive **business website** built with HTML & CSS for a local service provider.
 
 ### 2. [Java Currency Converter](https://github.com/Kkritika007/assignmentJ2)
