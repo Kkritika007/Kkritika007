@@ -38,7 +38,7 @@ I’m passionate about **learning new technologies**, solving problems, and crea
 ### 1. [DS Lumping Services Website](https://github.com/Kkritika007/ds-lumping-services)
 Responsive **business website** built with HTML & CSS for a local service provider.
 
-### 2. [Java Currency Converter](https://github.com/Kkritika007/A2JAVA)
+### 2. [Java Currency Converter](https://github.com/Kkritika007/assignmentJ2)
 **Java application** converting global currencies with API integration and history stored in JSON.
 
 ### 3. [Smoothie Ordering App](https://github.com/Kkritika007/jsA2)
